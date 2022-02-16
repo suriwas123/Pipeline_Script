@@ -1,3 +1,3 @@
-echo "Quality - Performing Testing activities"
+echo "Quality - Performing Testing activities for the week"
 SYSTEMINFO
 
