@@ -1,4 +1,4 @@
-echo "Deploy to Production"
+echo "Deploy to Production environment"
 
 wmic computersystem get name
 
